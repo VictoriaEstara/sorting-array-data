@@ -24,7 +24,7 @@ Proyek ini dikembangkan menggunakan [Dev-C++ v5.11](https://sourceforge.net/proj
 
 1. Buka proyek menggunakan Dev-C++.
 2. Jalankan aplikasi dengan melakukan compile dan Run (shortcut F11).
-4. Ikuti petunjuk.
+3. Ikuti petunjuk.
 
 ## Contoh Penggunaan Program
 
